@@ -2,7 +2,7 @@
 window.SITE_CONFIG = {
   // Ссылка на веб-приложение Google Apps Script (как получить — в README.md).
   // Пока строка пустая, сайт работает в демо-режиме: окна выдуманные, заявки никуда не уходят.
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbzCb31eEOtWcZJPXntBJb-3OWnZohjuvWI49jJtdI6aXqo7jF1l0Uwf-lfZ-7LRkYP5bA/exec',
 
   // Подпись рядом с расписанием, чтобы ученики из других городов не путались.
   TIMEZONE_LABEL: 'Время московское (МСК)',
